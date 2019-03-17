@@ -1,2 +1,2 @@
-# hello-orld
+# hello-world
 Ejemplos de uso de GitHub
